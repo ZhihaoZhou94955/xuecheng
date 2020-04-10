@@ -1,0 +1,7 @@
+com\xuecheng\manage_cms_client\config\MongoConfig.class
+com\xuecheng\manage_cms_client\config\rabbitmqConfig.class
+com\xuecheng\manage_cms_client\dao\cmsSiteRepositry.class
+com\xuecheng\manage_cms_client\service\PageService.class
+com\xuecheng\manage_cms_client\mq\rabbitmqListener.class
+com\xuecheng\manage_cms_client\cmsClientApplication.class
+com\xuecheng\manage_cms_client\dao\cmsPageRepositry.class

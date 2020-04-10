@@ -1,0 +1,21 @@
+server:
+  port: ${PORT:31001}
+spring:
+  application:
+    name: xc-service-manage-cms
+  data:
+    mongodb:
+      uri: mongodb://root:123456@localhost:27017
+      database: xc_cms
+  rabbitmq:
+    host: 192.168.127.192
+    port: 5672
+    username: admin
+    password: admin123
+    virtualHost: /xuecheng
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://localhost:51001/eureka/

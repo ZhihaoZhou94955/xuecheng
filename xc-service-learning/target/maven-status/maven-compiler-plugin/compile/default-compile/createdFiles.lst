@@ -1,0 +1,8 @@
+com\xuecheng\learning\dao\XcTaskHisRepositry.class
+com\xuecheng\learning\config\RabbitMQConfig.class
+com\xuecheng\learning\mq\mqListner.class
+com\xuecheng\learning\client\CourseSearchClient.class
+com\xuecheng\learning\controller\CourseLearningController.class
+com\xuecheng\learning\LearningApplication.class
+com\xuecheng\learning\service\LearningService.class
+com\xuecheng\learning\dao\XcLearningRepositry.class

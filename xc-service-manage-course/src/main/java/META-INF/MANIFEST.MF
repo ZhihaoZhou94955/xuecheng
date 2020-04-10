@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: I:\CMS\xcservice02\xc-service-manage-course\src\main\resou
+ rce
+Main-Class: com.xuecheng.manage_course.ManageCourseApplication
+

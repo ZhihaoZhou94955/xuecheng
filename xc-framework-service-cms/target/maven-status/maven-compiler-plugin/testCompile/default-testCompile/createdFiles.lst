@@ -1,0 +1,3 @@
+com\xuecheng\manage_cms\dao\restTemplateTest.class
+com\xuecheng\manage_cms\dao\testMongodb.class
+com\xuecheng\manage_cms\dao\GridFsTest.class

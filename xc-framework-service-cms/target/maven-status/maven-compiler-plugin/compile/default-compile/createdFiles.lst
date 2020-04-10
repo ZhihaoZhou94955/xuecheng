@@ -1,0 +1,16 @@
+com\xuecheng\manage_cms\CmsServiceApplication.class
+com\xuecheng\manage_cms\dao\cmsConfigRepositry.class
+com\xuecheng\manage_cms\controller\cmsConfigController.class
+com\xuecheng\manage_cms\controller\SysController.class
+com\xuecheng\manage_cms\dao\cmsPageRepositry.class
+com\xuecheng\manage_cms\controller\CmsPageController.class
+com\xuecheng\manage_cms\config\ResourceServerConfig.class
+com\xuecheng\manage_cms\dao\sysRepositry.class
+com\xuecheng\manage_cms\service\CmsPageService.class
+com\xuecheng\manage_cms\controller\CmsPagePreviewController.class
+com\xuecheng\manage_cms\service\sysService.class
+com\xuecheng\manage_cms\dao\CmsSiteRepositry.class
+com\xuecheng\manage_cms\dao\cmsTemplateRepositry.class
+com\xuecheng\manage_cms\config\MongoConfig.class
+com\xuecheng\manage_cms\service\PageService.class
+com\xuecheng\manage_cms\config\rabbitmqConfig.class

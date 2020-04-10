@@ -1,0 +1,4 @@
+com\xuecheng\govern\gateway\Filter\LoginFilter.class
+com\xuecheng\govern\gateway\GatewayApplication.class
+com\xuecheng\govern\gateway\service\AuthService.class
+com\xuecheng\govern\gateway\Filter\TestFilter.class
